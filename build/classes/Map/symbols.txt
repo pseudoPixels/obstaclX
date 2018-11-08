@@ -1,0 +1,20 @@
+A UpBrick
+N normalBrick
+R leftBrick
+O rightBrick
+2 leftWall
+3 leftWallending
+4 leftrightUpBrick
+5 rightDownCorner
+6 leftDownCorner
+H Hero
+L Moving Platform
+! hammer
+W Water
+# Health
+T Tree
+G gravityInverter
+s angryGuy
+F flame
+B flyingEnemy
+? Destination
